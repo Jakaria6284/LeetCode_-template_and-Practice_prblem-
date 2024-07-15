@@ -1,0 +1,27 @@
+import java.util.Stack;
+
+class Solution {
+    public boolean validateStackSequences(int[] pushed, int[] popped) {
+        Stack<Integer> cmpStack = new Stack<>();
+        Stack<Integer> finalStack = new Stack<>();
+
+        // Push the popped array into cmpStack in reverse order
+        for (int i = popped.length - 1; i >= 0; i--) {
+            cmpStack.push(popped[i]);
+        }
+
+        // Process the pushed array
+        for (int i = 0; i < pushed.length; i++) {
+            finalStack.push(pushed[i]);
+
+            // Continuously pop from finalStack and cmpStack while they match
+            while ( !finalStack.isEmpty() && !cmpStack.isEmpty() && finalStack.peek().  equals(cmpStack.peek())) {
+                finalStack.pop();
+                cmpStack.pop();
+            }
+        }
+
+        // Check if both stacks are empty
+        return finalStack.isEmpty() && cmpStack.isEmpty();
+    }
+}
