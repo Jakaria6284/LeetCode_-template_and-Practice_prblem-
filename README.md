@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0940-fruit-into-baskets](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1034-subarrays-with-k-different-integers) |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1034-subarrays-with-k-different-integers) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
