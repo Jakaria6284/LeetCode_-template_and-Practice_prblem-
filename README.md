@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0219-contains-duplicate-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0940-fruit-into-baskets) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0567-permutation-in-string) |
 ## Array
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0219-contains-duplicate-ii) |
 | [0275-h-index-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0940-fruit-into-baskets](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1034-subarrays-with-k-different-integers) |
@@ -87,4 +90,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0162-find-peak-element) |
 | [0275-h-index-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sorting
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
