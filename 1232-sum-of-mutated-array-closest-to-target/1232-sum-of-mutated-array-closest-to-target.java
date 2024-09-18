@@ -33,8 +33,15 @@ public class Solution {
     // Calculate sum with values capped at 'value'
     private int getSumWithCap(int[] arr, int cap) {
         int sum = 0;
-        for (int num : arr) {
-            sum += Math.min(num, cap);  // Add capped value to sum
+        for(int i=0;i<arr.length;i++)
+        {
+            if(arr[i]<=cap)
+            {
+                sum=sum+arr[i];
+            }else
+            {
+                sum=sum+cap;
+            }
         }
         return sum;
     }
