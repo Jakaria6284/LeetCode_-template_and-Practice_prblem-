@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0852-friends-of-appropriate-ages](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0852-friends-of-appropriate-ages) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0966-binary-subarrays-with-sum) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0852-friends-of-appropriate-ages](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0852-friends-of-appropriate-ages) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1232-sum-of-mutated-array-closest-to-target) |
