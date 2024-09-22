@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1675-magnetic-force-between-two-balls) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2294-minimum-time-to-complete-trips](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2294-minimum-time-to-complete-trips) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1675-magnetic-force-between-two-balls) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2294-minimum-time-to-complete-trips](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2294-minimum-time-to-complete-trips) |
 ## Sorting
 |  |
 | ------- |
