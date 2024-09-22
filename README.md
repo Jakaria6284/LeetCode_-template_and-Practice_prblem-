@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1675-magnetic-force-between-two-balls) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2000-minimum-speed-to-arrive-on-time) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1675-magnetic-force-between-two-balls) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2000-minimum-speed-to-arrive-on-time) |
