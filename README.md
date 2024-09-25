@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0069-sqrtx) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1370-count-number-of-nice-subarrays) |
 ## Bit Manipulation
@@ -170,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
