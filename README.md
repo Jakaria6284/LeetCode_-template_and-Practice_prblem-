@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0219-contains-duplicate-ii) |
 | [0275-h-index-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0287-find-the-duplicate-number) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0204-count-primes) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1370-count-number-of-nice-subarrays) |
 ## Bit Manipulation
 |  |
@@ -179,4 +181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0050-powx-n) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
