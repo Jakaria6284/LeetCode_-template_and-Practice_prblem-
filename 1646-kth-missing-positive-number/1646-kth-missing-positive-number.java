@@ -1,29 +1,27 @@
 class Solution {
     public int findKthPositive(int[] nums, int k) {
 
-        int num=1;
-        int i=0;
+      int start=0;
+      int end=nums.length-1;
 
-        while(i<nums.length && k>0)
+      while(start<=end)
+      {
+
+        int mid=start+(end-start)/2;
+
+        if(nums[mid]-(mid+1)<k)
         {
-            if(nums[i]==num)
-            {
-                i++;
-                num++;
-            }else
-            {
-                k--;
-                num++;
-            }
-        }
-
-        while(k>0)
+            start=mid+1;
+        }else
         {
-            num++;
-            k--;
+            end=mid-1;
         }
+      }
 
-        return num-1;
+
+      return start+k;
+
+      
         
     }
 }
