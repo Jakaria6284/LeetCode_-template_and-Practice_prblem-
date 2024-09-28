@@ -18,8 +18,8 @@ class Solution {
                 right--;
             } else {
                 // Use Math.pow to calculate the number of subsequences
-                res = (res + pow[right-left++]) % mod;
-                //left++;
+                res = (res + pow[right-left]) % mod;
+                left++;
             }
         }
         return res;
