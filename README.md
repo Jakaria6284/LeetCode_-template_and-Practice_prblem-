@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0567-permutation-in-string) |
+| [0807-custom-sort-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0807-custom-sort-string) |
 | [0940-fruit-into-baskets](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0966-binary-subarrays-with-sum) |
 | [1023-time-based-key-value-store](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1023-time-based-key-value-store) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0187-repeated-dna-sequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0567-permutation-in-string) |
+| [0807-custom-sort-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0807-custom-sort-string) |
 | [1023-time-based-key-value-store](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1023-time-based-key-value-store) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0807-custom-sort-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0807-custom-sort-string) |
 | [0852-friends-of-appropriate-ages](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0852-friends-of-appropriate-ages) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1615-range-sum-of-sorted-subarray-sums) |
