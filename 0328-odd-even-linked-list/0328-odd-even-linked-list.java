@@ -22,7 +22,7 @@ class Solution {
 
        
 
-        while(slow!=null && slow.next!=null)
+        while(fast.next!=null && slow.next!=null)
         {
            fast.next=fast.next.next;
            fast=fast.next;
