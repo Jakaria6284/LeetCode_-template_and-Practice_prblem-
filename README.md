@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0287-find-the-duplicate-number) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0234-palindrome-linked-list) |
 ## Enumeration
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0234-palindrome-linked-list) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0234-palindrome-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
