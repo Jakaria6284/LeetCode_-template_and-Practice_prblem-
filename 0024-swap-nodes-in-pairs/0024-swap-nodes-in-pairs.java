@@ -9,34 +9,57 @@
  * }
  */
 class Solution {
+    public int len(ListNode head)
+    {
+        int count=0;
+        while(head!=null)
+        {
+            count++;
+            head=head.next;
+        }
+        return count;
+    }
     public ListNode swapPairs(ListNode head) {
+
         if(head==null || head.next==null)
         {
             return head;
         }
 
-        
-        ListNode slow=head;
-        ListNode fast=head.next;
+        int size=len(head);
+        int group=size/2;
 
-       while(slow != null && fast != null)
+        ListNode prevHead=null;
+        ListNode currHead=head;
+        ListNode ansNode=null;
 
+        for(int i=0;i<group;i++)
         {
-            int t=slow.val;
-            slow.val=fast.val;
-            fast.val=t;
-           if(slow!=null && slow.next!=null)
-           {
-            slow=slow.next.next;
-           }
+            ListNode prev=null;
+            ListNode curr=currHead;
+            for(int j=0;j<2;j++)
+            {
+                ListNode nextNode=curr.next;
+                curr.next=prev;
+                prev=curr;
+                curr=nextNode;
+            }
 
-           if(fast!=null && fast.next!=null)
-           {
-            fast=fast.next.next;
-           }
+            if(prevHead==null)
+            {
+                ansNode=prev;
+            }else
+            {
+                prevHead.next=prev;
+            }
+
+            prevHead=currHead;
+            currHead=curr;
         }
 
-        return head;
-        
+        prevHead.next=currHead;
+
+        return ansNode;
+       
     }
 }
