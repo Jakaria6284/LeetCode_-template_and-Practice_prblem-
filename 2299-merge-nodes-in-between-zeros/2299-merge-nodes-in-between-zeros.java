@@ -10,7 +10,7 @@
  */
 class Solution {
     public ListNode mergeNodes(ListNode head) {
-        ArrayList<Integer>list=new ArrayList<>();
+       /* ArrayList<Integer>list=new ArrayList<>();
         ListNode temp=head.next;
         int sum=0;
 
@@ -38,7 +38,27 @@ class Solution {
            temp2=temp2.next;
         }
 
-        return dumy.next;
+        return dumy.next;*/
+
+        ListNode currHead=head.next;
+        ListNode temp=currHead;
+
+        while(temp!=null)
+        {
+            int sum=0;
+            while(temp.val!=0)
+            {
+                sum=sum+temp.val;
+                temp=temp.next;
+            }
+            currHead.val=sum;
+            temp=temp.next;
+            currHead.next=temp;
+            currHead=currHead.next;
+
+        }
+
+        return head.next;
 
         
     }
