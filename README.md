@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0567-permutation-in-string) |
 | [0807-custom-sort-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0807-custom-sort-string) |
+| [0835-linked-list-components](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0835-linked-list-components) |
 | [0940-fruit-into-baskets](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0966-binary-subarrays-with-sum) |
 | [1023-time-based-key-value-store](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1023-time-based-key-value-store) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0560-subarray-sum-equals-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0835-linked-list-components](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0835-linked-list-components) |
 | [0852-friends-of-appropriate-ages](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0852-friends-of-appropriate-ages) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0907-koko-eating-bananas) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0725-split-linked-list-in-parts) |
+| [0835-linked-list-components](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0835-linked-list-components) |
 | [0908-middle-of-the-linked-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0908-middle-of-the-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1765-merge-in-between-linked-lists) |
