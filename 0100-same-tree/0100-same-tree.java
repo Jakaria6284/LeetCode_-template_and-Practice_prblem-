@@ -37,12 +37,12 @@ class Solution {
     }
 
     public boolean isSameTree(TreeNode p, TreeNode q) {
-        int tree1Size = treesize(p);
-        int tree2Size = treesize(q);
+        // int tree1Size = treesize(p);
+        // int tree2Size = treesize(q);
 
-        if (tree1Size != tree2Size) {
-            return false;
-        }
+        // if (tree1Size != tree2Size) {
+        //     return false;
+        // }
 
         Queue<TreeNode> q1 = new LinkedList<>();
         Queue<TreeNode> q2 = new LinkedList<>();
@@ -61,9 +61,9 @@ class Solution {
             }
 
             q1.offer(headq1.left);
-             q1.offer(headq1.right);
+            q1.offer(headq1.right);
 
-             q2.offer(headq2.left);
+            q2.offer(headq2.left);
             q2.offer(headq2.right);
         }
 
