@@ -168,12 +168,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0204-count-primes) |
 | [0445-add-two-numbers-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0445-add-two-numbers-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1370-count-number-of-nice-subarrays) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0287-find-the-duplicate-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Rolling Hash
 |  |
 | ------- |
