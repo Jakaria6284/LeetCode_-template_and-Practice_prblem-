@@ -1,37 +1,24 @@
-import java.util.HashMap;
-import java.util.Map;
+import java.util.Arrays;
 
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
-        
-        if (s1.length() > s2.length()) {
-            return false;
-        }
+        int len = s1.length();
+        int n = s2.length();
 
-        Map<Character, Integer> map = new HashMap<>();
-        int window = s1.length();
+        // Sort s1 once to use as the reference for permutation comparison
+        char[] s1Arr = s1.toCharArray();
+        Arrays.sort(s1Arr);
+        String sortedS1 = new String(s1Arr);
 
-        // Populate the frequency map for s1
-        for (int i = 0; i < s1.length(); i++) {
-            map.put(s1.charAt(i), map.getOrDefault(s1.charAt(i), 0) + 1);
-        }
+        for (int i = 0; i <= n - len; i++) {
+            // Take the substring of s2 of length 'len'
+            String temp = s2.substring(i, i + len);
+            char[] tempArr = temp.toCharArray();
+            Arrays.sort(tempArr);
+            String compareString = new String(tempArr);
 
-        // Slide over s2 with the window size of length s1
-        for (int i = 0; i <= s2.length() - window; i++) {
-            String sub = s2.substring(i, i + window);
-            char[] arr = sub.toCharArray();
-
-            Map<Character, Integer> subMap = new HashMap<>();
-            int j = 0;
-            
-            // Build frequency map for the current substring
-            while (j < arr.length) {
-                subMap.put(arr[j], subMap.getOrDefault(arr[j], 0) + 1);
-                j++;
-            }
-
-            // Compare the frequency maps
-            if (map.equals(subMap)) {
+            // Check if the sorted substring matches sorted s1
+            if (sortedS1.equals(compareString)) {
                 return true;
             }
         }
