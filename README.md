@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0491-non-decreasing-subsequences](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0491-non-decreasing-subsequences) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0567-permutation-in-string) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0475-heaters](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0475-heaters) |
+| [0491-non-decreasing-subsequences](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0491-non-decreasing-subsequences) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0560-subarray-sum-equals-k) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0287-find-the-duplicate-number) |
+| [0491-non-decreasing-subsequences](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0491-non-decreasing-subsequences) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Rolling Hash
 |  |
@@ -518,4 +521,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0257-binary-tree-paths) |
+| [0491-non-decreasing-subsequences](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0491-non-decreasing-subsequences) |
 <!---LeetCode Topics End-->
