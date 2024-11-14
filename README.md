@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2050-count-good-numbers](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2050-count-good-numbers) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Bit Manipulation
 |  |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2050-count-good-numbers) |
 ## Enumeration
 |  |
 | ------- |
