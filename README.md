@@ -548,4 +548,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1013-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
