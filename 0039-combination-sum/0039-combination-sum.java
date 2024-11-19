@@ -6,28 +6,30 @@ public class Solution {
     private List<List<Integer>> results;
 
     public List<List<Integer>> combinationSum(int[] nums, int target) {
-        results = new ArrayList<>();
-        Arrays.sort(nums);
-        backtrack(new ArrayList<>(), nums, target, 0);
+        results=new ArrayList<>();
+        List<Integer>list=new ArrayList<>();
+        backtrack(nums,list,target,0);
         return results;
+
+        
+    }
+    public void backtrack(int[]nums,List<Integer>list,int remain,int i)
+    {
+            if(remain<0){
+                return ;
+            }else if(remain==0)
+            {
+                results.add(new ArrayList<>(list));
+            }else
+            {
+                if (i >= nums.length) return;
+                list.add(nums[i]);
+                backtrack(nums,list,remain-nums[i],i);
+                list.remove(list.size()-1);
+                backtrack(nums,list,remain,i+1);
+            }
     }
 
-    private void backtrack(List<Integer> tempList, int[] nums, int remain, int start) {
-        if (remain < 0) return; // Terminate invalid paths
-        if (remain == 0) {
-            results.add(new ArrayList<>(tempList)); // Add a valid combination
-            return;
-        }
-        if (start >= nums.length) return; // Out of bounds
-
-        // Include the current element
-        tempList.add(nums[start]);
-        backtrack(tempList, nums, remain - nums[start], start); // Reuse the same element
-        tempList.remove(tempList.size() - 1); // Backtrack
-
-        // Move to the next element
-        backtrack(tempList, nums, remain, start + 1);
-    }
-
+   
     
 }
