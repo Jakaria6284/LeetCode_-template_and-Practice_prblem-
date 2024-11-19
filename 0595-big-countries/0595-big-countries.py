@@ -1,8 +1,6 @@
 import pandas as pd
 
 def big_countries(world: pd.DataFrame) -> pd.DataFrame:
-    df=pd.DataFrame(world)
-    filtered=df[(df['area']>=3000000) | (df['population']>=25000000)]
-
-    return filtered[['name','population','area']]
-    
+    filtered = world[(world['area'] >= 3000000) | (world['population'] >= 25000000)]
+    filtered = filtered.drop(['continent', 'gdp'], axis=1)  
+    return filtered
