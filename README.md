@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0491-non-decreasing-subsequences) |
+| [0508-most-frequent-subtree-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0508-most-frequent-subtree-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0567-permutation-in-string) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0404-sum-of-left-leaves) |
+| [0508-most-frequent-subtree-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0543-diameter-of-binary-tree) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0404-sum-of-left-leaves) |
+| [0508-most-frequent-subtree-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0543-diameter-of-binary-tree) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0404-sum-of-left-leaves) |
+| [0508-most-frequent-subtree-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0543-diameter-of-binary-tree) |
