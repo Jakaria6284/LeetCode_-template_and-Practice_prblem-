@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0012-integer-to-roman) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0160-intersection-of-two-linked-lists) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -480,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0111-minimum-depth-of-binary-tree) |
