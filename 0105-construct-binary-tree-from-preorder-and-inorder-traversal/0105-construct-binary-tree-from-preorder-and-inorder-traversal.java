@@ -1,3 +1,4 @@
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -14,30 +15,26 @@
  * }
  */
 class Solution {
-   TreeNode buildTree(int[] preOrder, int[] inOrder) {
+    private int preorderIdx = 0;
+    private TreeNode construct(int[] preorder, HashMap<Integer,Integer> map, int left, int right){
+        if(left>right) return null;
+        int pval = preorder[preorderIdx];
+        int inorderIdx = map.get(pval);
 
-    Map<Integer, Integer> inOrderIndexMap = new HashMap<>();
-    for (int i = 0; i < inOrder.length; i++)
-      inOrderIndexMap.put(inOrder[i], i);
+        TreeNode root = new TreeNode(pval);
+        preorderIdx++;
+        root.left = construct(preorder, map, left, inorderIdx-1);
+        root.right = construct(preorder, map, inorderIdx+1, right);
+        return root;
+        
+    }
+    public TreeNode buildTree(int[] preorder, int[] inorder) {
+        HashMap<Integer,Integer> map = new HashMap<>();
+        int len = inorder.length;
+        for(int i=0;i<len;i++){
+            map.put(inorder[i],i);
+        }
 
-    return splitTree(preOrder, inOrderIndexMap,
-        0, 0, inOrder.length - 1);
-  }
-
-  private TreeNode splitTree(int[] preOrder, Map<Integer, Integer> inOrderIndexMap,
-                             int rootIndex, int left, int right) {
-
-    TreeNode root = new TreeNode(preOrder[rootIndex]);
-
-    // Create left and right subtree
-    int mid = inOrderIndexMap.get(preOrder[rootIndex]);
-    if (mid > left)
-      root.left = splitTree(preOrder, inOrderIndexMap,
-          rootIndex + 1, left, mid - 1);
-    if (mid < right)
-      root.right = splitTree(preOrder, inOrderIndexMap,
-          rootIndex + mid - left + 1, mid + 1, right);
-    return root;
-  }
-
+        return construct(preorder, map, 0, len-1);
+    }
 }
