@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0445-add-two-numbers-ii) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0904-leaf-similar-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1035-cousins-in-binary-tree) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0662-maximum-width-of-binary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0904-leaf-similar-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1035-cousins-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1544-count-good-nodes-in-binary-tree) |
