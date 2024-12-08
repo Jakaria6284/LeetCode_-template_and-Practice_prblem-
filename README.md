@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0904-leaf-similar-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1035-cousins-in-binary-tree) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0904-leaf-similar-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1035-cousins-in-binary-tree) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0783-search-in-a-binary-search-tree) |
 ## String Matching
 |  |
 | ------- |
