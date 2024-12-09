@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0784-insert-into-a-binary-search-tree) |
 ## String Matching
