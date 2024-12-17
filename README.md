@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0491-non-decreasing-subsequences) |
 | [0508-most-frequent-subtree-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0508-most-frequent-subtree-sum) |
+| [0523-continuous-subarray-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0567-permutation-in-string) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0475-heaters](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0475-heaters) |
 | [0491-non-decreasing-subsequences](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0491-non-decreasing-subsequences) |
+| [0523-continuous-subarray-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0560-subarray-sum-equals-k) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0326-power-of-three) |
 | [0445-add-two-numbers-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0445-add-two-numbers-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
