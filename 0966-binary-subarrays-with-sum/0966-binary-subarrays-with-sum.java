@@ -1,33 +1,27 @@
+import java.util.HashMap;
+import java.util.Map;
+
 class Solution {
-    public int numSubarraysWithSum(int[] nums, int k) {
-        
-       
-      return subarray(nums,k)-subarray(nums,k-1);      
-
-    }
-
-    private int subarray(int []arr,int k){
-         int n = arr.length;
-        int l = 0, r = 0, count = 0;
+    public int numSubarraysWithSum(int[] nums, int goal) {
+        Map<Integer, Integer> map = new HashMap<>();
+        int count = 0;
+        map.put(0, 1); // Initialize with 0 sum having 1 occurrence
         int sum = 0;
-
-        while (r < n) {
-            sum += arr[r];  // Add nums[r] to the current sum
+        
+        for (int i = 0; i < nums.length; i++) {
+            sum += nums[i];
             
-            // Shrink the window if the sum exceeds the target k
-            while (sum > k && l <= r) {
-                sum -= arr[l];
-                l++;
+            // Check if there's a subarray whose sum equals goal
+            if (map.containsKey(sum - goal)) {
+                count += map.get(sum - goal);
             }
-
-            count=count+(r-l+1);
-            r++;
-
-           
+            
+            // Store the frequency of the current sum
+            map.put(sum, map.getOrDefault(sum, 0) + 1);
+        }
+        
+        return count;
     }
-     return count;
- }
+    
 
- 
 }
-
