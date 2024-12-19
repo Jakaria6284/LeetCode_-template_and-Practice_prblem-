@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1830-count-good-meals](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1830-count-good-meals) |
+| [2388-replace-elements-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2388-replace-elements-in-an-array) |
 | [2832-find-the-longest-equal-subarray](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2832-find-the-longest-equal-subarray) |
 | [2915-count-of-interesting-subarrays](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2915-count-of-interesting-subarrays) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2294-minimum-time-to-complete-trips) |
+| [2388-replace-elements-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2388-replace-elements-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2690-house-robber-iv](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2690-house-robber-iv) |
 | [2832-find-the-longest-equal-subarray](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2832-find-the-longest-equal-subarray) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0043-multiply-strings) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2388-replace-elements-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2388-replace-elements-in-an-array) |
 ## Matrix
 |  |
 | ------- |
