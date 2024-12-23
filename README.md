@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0807-custom-sort-string) |
 | [0835-linked-list-components](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0835-linked-list-components) |
 | [0940-fruit-into-baskets](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0940-fruit-into-baskets) |
+| [0952-word-subsets](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1023-time-based-key-value-store) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0800-letter-case-permutation) |
 | [0807-custom-sort-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0812-rotate-string) |
+| [0952-word-subsets](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0952-word-subsets) |
 | [1023-time-based-key-value-store](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1023-time-based-key-value-store) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0948-sort-an-array) |
+| [0952-word-subsets](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1034-subarrays-with-k-different-integers) |
