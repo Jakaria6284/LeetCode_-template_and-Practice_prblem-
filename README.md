@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1830-count-good-meals](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1830-count-good-meals) |
 | [1848-sum-of-unique-elements](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1848-sum-of-unique-elements) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1777-determine-if-two-strings-are-close) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1830-count-good-meals](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1830-count-good-meals) |
 | [1848-sum-of-unique-elements](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1848-sum-of-unique-elements) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2270-find-all-lonely-numbers-in-the-array) |
