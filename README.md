@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1319-unique-number-of-occurrences](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1370-count-number-of-nice-subarrays) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0952-word-subsets) |
 | [1023-time-based-key-value-store](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1023-time-based-key-value-store) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1351-replace-the-substring-for-balanced-string) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1777-determine-if-two-strings-are-close) |
@@ -255,15 +257,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0491-non-decreasing-subsequences) |
 | [0800-letter-case-permutation](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0800-letter-case-permutation) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Rolling Hash
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0187-repeated-dna-sequences) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0187-repeated-dna-sequences) |
 | [0572-subtree-of-another-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0572-subtree-of-another-tree) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Counting
 |  |
 | ------- |
