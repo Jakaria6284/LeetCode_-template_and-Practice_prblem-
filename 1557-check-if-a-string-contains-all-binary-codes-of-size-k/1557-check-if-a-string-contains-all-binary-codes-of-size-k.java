@@ -5,14 +5,7 @@ class Solution {
 
         for(int i=0;i<s.length()-k+1;i++)
         {
-            int j=i+k-1;
-            StringBuilder str=new StringBuilder();
-            for(int z=i;z<=j;z++)
-            {
-                str.append(s.charAt(z));
-            }
-            set.add(str.toString());
-            str.setLength(0);
+           set.add(s.substring(i,i+k));
         }
 
         if(cmp==set.size())
