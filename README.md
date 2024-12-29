@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2388-replace-elements-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2388-replace-elements-in-an-array) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2832-find-the-longest-equal-subarray](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2832-find-the-longest-equal-subarray) |
 | [2915-count-of-interesting-subarrays](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2915-count-of-interesting-subarrays) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-replace-the-substring-for-balanced-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2832-find-the-longest-equal-subarray](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2832-find-the-longest-equal-subarray) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-minimum-time-to-complete-trips](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2294-minimum-time-to-complete-trips) |
 | [2388-replace-elements-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2388-replace-elements-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2690-house-robber-iv](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2690-house-robber-iv) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2832-find-the-longest-equal-subarray](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2832-find-the-longest-equal-subarray) |
