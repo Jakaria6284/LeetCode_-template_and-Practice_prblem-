@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2388-replace-elements-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2388-replace-elements-in-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2751-sliding-subarray-beauty](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2751-sliding-subarray-beauty) |
 | [2832-find-the-longest-equal-subarray](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2832-find-the-longest-equal-subarray) |
 | [2915-count-of-interesting-subarrays](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2915-count-of-interesting-subarrays) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2751-sliding-subarray-beauty](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2751-sliding-subarray-beauty) |
 | [2832-find-the-longest-equal-subarray](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2832-find-the-longest-equal-subarray) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2690-house-robber-iv](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2690-house-robber-iv) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2751-sliding-subarray-beauty](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2751-sliding-subarray-beauty) |
 | [2832-find-the-longest-equal-subarray](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2832-find-the-longest-equal-subarray) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2915-count-of-interesting-subarrays) |
