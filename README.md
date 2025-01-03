@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3405-count-the-number-of-special-characters-ii) |
 ## Sliding Window
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2714-left-and-right-sum-differences](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2714-left-and-right-sum-differences) |
 | [2915-count-of-interesting-subarrays](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2915-count-of-interesting-subarrays) |
 ## Math
