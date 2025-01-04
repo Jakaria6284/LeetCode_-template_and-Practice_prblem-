@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2050-count-good-numbers](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2050-count-good-numbers) |
+| [2284-smallest-value-of-the-rearranged-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Bit Manipulation
 |  |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1675-magnetic-force-between-two-balls) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2284-smallest-value-of-the-rearranged-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Trie
