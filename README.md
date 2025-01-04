@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1675-magnetic-force-between-two-balls) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1830-count-good-meals](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1830-count-good-meals) |
 | [1848-sum-of-unique-elements](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1848-sum-of-unique-elements) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2714-left-and-right-sum-differences](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2714-left-and-right-sum-differences) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2050-count-good-numbers](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2050-count-good-numbers) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Bit Manipulation
