@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Trie
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1127-last-stone-weight) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Merge Sort
 |  |
