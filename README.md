@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1464-reduce-array-size-to-the-half) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0958-sort-array-by-parity-ii) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1464-reduce-array-size-to-the-half) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1127-last-stone-weight) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1464-reduce-array-size-to-the-half) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -553,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0777-toeplitz-matrix) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Tree
 |  |
 | ------- |
