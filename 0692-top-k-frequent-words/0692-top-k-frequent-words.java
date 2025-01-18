@@ -1,7 +1,7 @@
 class Solution {
     public List<String> topKFrequent(String[] words, int k) {
 
-        Map<String,Integer>map=new TreeMap<>();
+        Map<String,Integer>map=new HashMap<>();
            PriorityQueue<Map.Entry<String, Integer>> pq = new PriorityQueue<>(
             (a, b) -> {
                 int valueComparison = b.getValue() - a.getValue(); // Compare by value (descending)
