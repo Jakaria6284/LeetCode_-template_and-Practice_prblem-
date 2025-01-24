@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2228-watering-plants-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2228-watering-plants-ii) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1127-last-stone-weight) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1464-reduce-array-size-to-the-half) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -842,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0778-reorganize-string) |
 | [1285-balance-a-binary-search-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1285-balance-a-binary-search-tree) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1464-reduce-array-size-to-the-half) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Monotonic Stack
