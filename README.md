@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0852-friends-of-appropriate-ages](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0852-friends-of-appropriate-ages) |
 | [0908-middle-of-the-linked-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0917-boats-to-save-people) |
 | [0958-sort-array-by-parity-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0958-sort-array-by-parity-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-friends-of-appropriate-ages](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0852-friends-of-appropriate-ages) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0907-koko-eating-bananas) |
+| [0917-boats-to-save-people](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0952-word-subsets) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0807-custom-sort-string) |
 | [0852-friends-of-appropriate-ages](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0852-friends-of-appropriate-ages) |
+| [0917-boats-to-save-people](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0958-sort-array-by-parity-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1014-k-closest-points-to-origin) |
@@ -858,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0778-reorganize-string) |
+| [0917-boats-to-save-people](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0917-boats-to-save-people) |
 | [1285-balance-a-binary-search-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1285-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1464-reduce-array-size-to-the-half) |
