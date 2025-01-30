@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0952-word-subsets) |
 | [1023-time-based-key-value-store](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1023-time-based-key-value-store) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1351-replace-the-substring-for-balanced-string) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1014-k-closest-points-to-origin) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1448-maximum-69-number) |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0917-boats-to-save-people) |
 | [1285-balance-a-binary-search-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1285-balance-a-binary-search-tree) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1448-maximum-69-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1464-reduce-array-size-to-the-half) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2094-remove-stones-to-minimize-the-total) |
