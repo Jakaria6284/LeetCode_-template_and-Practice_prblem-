@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2388-replace-elements-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2388-replace-elements-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2725-mice-and-cheese](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2725-mice-and-cheese) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -881,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2725-mice-and-cheese](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2725-mice-and-cheese) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
