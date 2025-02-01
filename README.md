@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2714-left-and-right-sum-differences](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2714-left-and-right-sum-differences) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2725-mice-and-cheese](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2725-mice-and-cheese) |
 | [2751-sliding-subarray-beauty](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2751-sliding-subarray-beauty) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2832-find-the-longest-equal-subarray](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2832-find-the-longest-equal-subarray) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2725-mice-and-cheese](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2725-mice-and-cheese) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Trie
 |  |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-total-cost-to-hire-k-workers](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2725-mice-and-cheese](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2725-mice-and-cheese) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Merge Sort
@@ -876,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2725-mice-and-cheese](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2725-mice-and-cheese) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Monotonic Stack
