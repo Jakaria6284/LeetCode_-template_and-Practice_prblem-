@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0807-custom-sort-string) |
 | [0835-linked-list-components](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0835-linked-list-components) |
+| [0876-hand-of-straights](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0966-binary-subarrays-with-sum) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0777-toeplitz-matrix) |
 | [0835-linked-list-components](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0835-linked-list-components) |
 | [0852-friends-of-appropriate-ages](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0852-friends-of-appropriate-ages) |
+| [0876-hand-of-straights](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0890-lemonade-change) |
 | [0901-advantage-shuffle](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0901-advantage-shuffle) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0807-custom-sort-string) |
 | [0852-friends-of-appropriate-ages](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0852-friends-of-appropriate-ages) |
+| [0876-hand-of-straights](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0876-hand-of-straights) |
 | [0901-advantage-shuffle](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0901-advantage-shuffle) |
 | [0917-boats-to-save-people](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0948-sort-an-array) |
@@ -891,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0778-reorganize-string) |
+| [0876-hand-of-straights](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0890-lemonade-change) |
 | [0901-advantage-shuffle](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0901-advantage-shuffle) |
 | [0917-boats-to-save-people](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0917-boats-to-save-people) |
