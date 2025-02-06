@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1127-last-stone-weight) |
+| [1139-previous-permutation-with-one-swap](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1139-previous-permutation-with-one-swap) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1319-unique-number-of-occurrences](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -898,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0890-lemonade-change) |
 | [0901-advantage-shuffle](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0901-advantage-shuffle) |
 | [0917-boats-to-save-people](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0917-boats-to-save-people) |
+| [1139-previous-permutation-with-one-swap](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1139-previous-permutation-with-one-swap) |
 | [1285-balance-a-binary-search-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1285-balance-a-binary-search-tree) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
