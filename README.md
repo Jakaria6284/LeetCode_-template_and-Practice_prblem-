@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0692-top-k-frequent-words) |
+| [0768-partition-labels](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0807-custom-sort-string) |
 | [0835-linked-list-components](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0835-linked-list-components) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0692-top-k-frequent-words) |
+| [0768-partition-labels](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0800-letter-case-permutation) |
 | [0807-custom-sort-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0807-custom-sort-string) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0768-partition-labels](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0768-partition-labels) |
 | [0852-friends-of-appropriate-ages](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0852-friends-of-appropriate-ages) |
 | [0901-advantage-shuffle](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0901-advantage-shuffle) |
 | [0908-middle-of-the-linked-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0908-middle-of-the-linked-list) |
@@ -894,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0621-task-scheduler) |
+| [0768-partition-labels](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0890-lemonade-change) |
