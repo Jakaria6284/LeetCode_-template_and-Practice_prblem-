@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-string-without-aaa-or-bbb](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1026-string-without-aaa-or-bbb) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1464-reduce-array-size-to-the-half) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1675-magnetic-force-between-two-balls) |
@@ -911,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1448-maximum-69-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1464-reduce-array-size-to-the-half) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2345-minimum-number-of-operations-to-convert-time) |
