@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2388-replace-elements-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2388-replace-elements-in-an-array) |
 | [2487-optimal-partition-of-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2487-optimal-partition-of-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2294-minimum-time-to-complete-trips) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2388-replace-elements-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2388-replace-elements-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 ## Binary Search
 |  |
@@ -920,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2345-minimum-number-of-operations-to-convert-time) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2456-construct-smallest-number-from-di-string) |
