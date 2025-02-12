@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0747-min-cost-climbing-stairs](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0747-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0777-toeplitz-matrix) |
 | [0835-linked-list-components](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0835-linked-list-components) |
 | [0852-friends-of-appropriate-ages](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0852-friends-of-appropriate-ages) |
@@ -886,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0435-non-overlapping-intervals) |
+| [0747-min-cost-climbing-stairs](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1013-fibonacci-number) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2205-find-good-days-to-rob-the-bank) |
 ## Memoization
