@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1014-k-closest-points-to-origin) |
+| [1236-n-th-tribonacci-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1236-n-th-tribonacci-number) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -889,12 +890,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1236-n-th-tribonacci-number) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2205-find-good-days-to-rob-the-bank) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1236-n-th-tribonacci-number) |
 ## Database
 |  |
 | ------- |
