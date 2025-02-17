@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0326-power-of-three) |
 | [0445-add-two-numbers-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0523-continuous-subarray-sum) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0513-find-bottom-left-tree-value) |
@@ -893,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0747-min-cost-climbing-stairs) |
