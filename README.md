@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0213-house-robber-ii) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0273-integer-to-english-words) |
