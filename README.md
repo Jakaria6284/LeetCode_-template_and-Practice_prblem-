@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0039-combination-sum) |
