@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0238-product-of-array-except-self) |
 | [0275-h-index-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0322-coin-change) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0966-binary-subarrays-with-sum) |
