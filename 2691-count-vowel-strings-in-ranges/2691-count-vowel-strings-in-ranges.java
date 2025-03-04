@@ -2,7 +2,7 @@ import java.util.*;
 
 class Solution {
     public int[] vowelStrings(String[] words, int[][] queries) {
-        List<Integer> list = new ArrayList<>();
+        
         Set<Character> set = new HashSet<>(Arrays.asList('a', 'e', 'i', 'o', 'u'));
         int []preSum=new int[words.length+1];
 
