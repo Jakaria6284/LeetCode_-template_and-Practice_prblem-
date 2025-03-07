@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2832-find-the-longest-equal-subarray](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2832-find-the-longest-equal-subarray) |
 | [2915-count-of-interesting-subarrays](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2915-count-of-interesting-subarrays) |
 | [2920-minimum-seconds-to-equalize-a-circular-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2920-minimum-seconds-to-equalize-a-circular-array) |
+| [3034-points-that-intersect-with-cars](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3034-points-that-intersect-with-cars) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2915-count-of-interesting-subarrays) |
 | [2920-minimum-seconds-to-equalize-a-circular-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2920-minimum-seconds-to-equalize-a-circular-array) |
+| [3034-points-that-intersect-with-cars](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3034-points-that-intersect-with-cars) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2714-left-and-right-sum-differences) |
 | [2915-count-of-interesting-subarrays](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2915-count-of-interesting-subarrays) |
+| [3034-points-that-intersect-with-cars](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3034-points-that-intersect-with-cars) |
 ## Math
 |  |
 | ------- |
