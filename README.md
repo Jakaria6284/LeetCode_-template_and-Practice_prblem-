@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1127-last-stone-weight) |
 | [1139-previous-permutation-with-one-swap](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1139-previous-permutation-with-one-swap) |
+| [1184-car-pooling](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1184-car-pooling) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1319-unique-number-of-occurrences](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1184-car-pooling](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1184-car-pooling) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2205-find-good-days-to-rob-the-bank) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0958-sort-array-by-parity-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1014-k-closest-points-to-origin) |
+| [1184-car-pooling](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1184-car-pooling) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -625,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1127-last-stone-weight) |
+| [1184-car-pooling](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1184-car-pooling) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1464-reduce-array-size-to-the-half) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -663,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0043-multiply-strings) |
+| [1184-car-pooling](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1184-car-pooling) |
 | [2228-watering-plants-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2299-merge-nodes-in-between-zeros) |
