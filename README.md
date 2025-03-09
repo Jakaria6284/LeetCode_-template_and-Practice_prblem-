@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0729-my-calendar-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0747-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0777-toeplitz-matrix) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0729-my-calendar-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0852-friends-of-appropriate-ages](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0852-friends-of-appropriate-ages) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0303-range-sum-query-immutable) |
+| [0729-my-calendar-i](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0729-my-calendar-i) |
 | [1023-time-based-key-value-store](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1023-time-based-key-value-store) |
 ## Linked List
 |  |
@@ -1001,4 +1004,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1014-k-closest-points-to-origin) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
