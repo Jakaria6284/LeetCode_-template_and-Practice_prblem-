@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1848-sum-of-unique-elements) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
+| [1983-maximum-population-year](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1983-maximum-population-year) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1184-car-pooling) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1983-maximum-population-year](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1983-maximum-population-year) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2465-shifting-letters-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1034-subarrays-with-k-different-integers) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1777-determine-if-two-strings-are-close) |
 | [1848-sum-of-unique-elements](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1848-sum-of-unique-elements) |
+| [1983-maximum-population-year](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1983-maximum-population-year) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
