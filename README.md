@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2465-shifting-letters-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2465-shifting-letters-ii) |
 | [2487-optimal-partition-of-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2487-optimal-partition-of-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2388-replace-elements-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2388-replace-elements-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2465-shifting-letters-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2504-find-all-good-indices](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2504-find-all-good-indices) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2205-find-good-days-to-rob-the-bank) |
+| [2465-shifting-letters-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2504-find-all-good-indices](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2504-find-all-good-indices) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2576-minimum-penalty-for-a-shop) |
