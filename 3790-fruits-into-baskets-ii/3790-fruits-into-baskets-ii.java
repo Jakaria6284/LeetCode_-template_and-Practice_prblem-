@@ -15,7 +15,7 @@ class Solution {
                     
                 }
             }
-            if (!place) { // If no suitable basket found, count as unplaced
+            if (place==false) { // If no suitable basket found, count as unplaced
                 count++;
             }
         }
