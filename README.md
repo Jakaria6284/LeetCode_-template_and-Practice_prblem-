@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2388-replace-elements-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2388-replace-elements-in-an-array) |
 | [2487-optimal-partition-of-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2487-optimal-partition-of-string) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2294-minimum-time-to-complete-trips) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2388-replace-elements-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2388-replace-elements-in-an-array) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1983-maximum-population-year](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1983-maximum-population-year) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2205-find-good-days-to-rob-the-bank) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2465-shifting-letters-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2504-find-all-good-indices](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2504-find-all-good-indices) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2294-minimum-time-to-complete-trips) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2690-house-robber-iv](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2690-house-robber-iv) |
 | [2832-find-the-longest-equal-subarray](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2832-find-the-longest-equal-subarray) |
@@ -506,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -1022,4 +1027,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0729-my-calendar-i) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2334-number-of-flowers-in-full-bloom) |
 <!---LeetCode Topics End-->
