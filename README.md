@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0898-transpose-matrix) |
 | [0901-advantage-shuffle](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0901-advantage-shuffle) |
 | [0907-koko-eating-bananas](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0917-boats-to-save-people) |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0043-multiply-strings) |
+| [0898-transpose-matrix](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0898-transpose-matrix) |
 | [1184-car-pooling](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1184-car-pooling) |
 | [2228-watering-plants-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0777-toeplitz-matrix](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0777-toeplitz-matrix) |
+| [0898-transpose-matrix](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0898-transpose-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2625-increment-submatrices-by-one](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2625-increment-submatrices-by-one) |
 ## Tree
