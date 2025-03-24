@@ -1,31 +1,26 @@
 class Solution {
     public int numberOfSubarrays(int[] nums, int k) {
-        return nice(nums,k)-nice(nums,k-1);
-    }
-
-    private int nice(int[]arr,int k)
-    {
-        int r=0,l=0,sum=0,result=0;
-
-        int n=arr.length;
-
-        while(r<n)
-        {
-            if(arr[r]%2!=0)
-            {
-                sum=sum+1;
+        int i=0;
+        int j=0;
+        int oddCount=0;
+        int count=0;
+        int temp=0;
+        
+        while(j<nums.length){
+            if(nums[j]%2==1){
+                oddCount++;
+                temp=0;
             }
-
-            while(sum>k )
-            {
-                sum=sum-arr[l]%2;
-                l++;
+            while(oddCount==k){
+                temp++;
+                if(nums[i]%2==1){
+                    oddCount--;
+                }
+                i++;
             }
-            result=result+(r-l+1);
-            r++;
-
+            count+=temp;
+            j++;
         }
-
-        return result;
+        return count;
     }
 }
