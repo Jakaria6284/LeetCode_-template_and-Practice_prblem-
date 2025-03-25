@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Array
 |  |
 | ------- |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Binary Search
 |  |
 | ------- |
@@ -472,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2690-house-robber-iv) |
 | [2832-find-the-longest-equal-subarray](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2832-find-the-longest-equal-subarray) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3790-fruits-into-baskets-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
@@ -525,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2725-mice-and-cheese](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2725-mice-and-cheese) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Trie
 |  |
 | ------- |
@@ -967,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1236-n-th-tribonacci-number) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2504-find-all-good-indices](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2504-find-all-good-indices) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Memoization
 |  |
 | ------- |
