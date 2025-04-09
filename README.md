@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0403-frog-jump](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0455-assign-cookies) |
@@ -975,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1013-fibonacci-number) |
