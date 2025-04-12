@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-total-cost-to-hire-k-workers](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Array
 |  |
 | ------- |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0204-count-primes) |
+| [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -986,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2504-find-all-good-indices](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2504-find-all-good-indices) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Memoization
 |  |
 | ------- |
