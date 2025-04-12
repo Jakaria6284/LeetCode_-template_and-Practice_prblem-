@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3528-reach-end-of-array-with-max-score](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3790-fruits-into-baskets-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
@@ -1042,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2725-mice-and-cheese](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2725-mice-and-cheese) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3528-reach-end-of-array-with-max-score](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3528-reach-end-of-array-with-max-score) |
 ## Monotonic Stack
 |  |
 | ------- |
