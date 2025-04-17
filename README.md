@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -973,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -1068,4 +1070,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0729-my-calendar-i) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2334-number-of-flowers-in-full-bloom) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
