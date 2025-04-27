@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -725,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0498-diagonal-traverse) |
@@ -975,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
