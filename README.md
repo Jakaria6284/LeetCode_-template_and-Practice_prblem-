@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2228-watering-plants-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2294-minimum-time-to-complete-trips) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2334-number-of-flowers-in-full-bloom) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1983-maximum-population-year](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1983-maximum-population-year) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2205-find-good-days-to-rob-the-bank) |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2465-shifting-letters-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0204-count-primes) |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Number Theory
 |  |
@@ -1045,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1880-largest-merge-of-two-strings](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1880-largest-merge-of-two-strings) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
