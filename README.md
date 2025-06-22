@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0768-partition-labels) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0852-friends-of-appropriate-ages](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0852-friends-of-appropriate-ages) |
 | [0901-advantage-shuffle](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0901-advantage-shuffle) |
 | [0908-middle-of-the-linked-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0908-middle-of-the-linked-list) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0747-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0777-toeplitz-matrix) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0835-linked-list-components](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0835-linked-list-components) |
 | [0852-friends-of-appropriate-ages](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0852-friends-of-appropriate-ages) |
 | [0876-hand-of-straights](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0876-hand-of-straights) |
