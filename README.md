@@ -606,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0303-range-sum-query-immutable) |
 | [0729-my-calendar-i](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0729-my-calendar-i) |
 | [1023-time-based-key-value-store](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1023-time-based-key-value-store) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0445-add-two-numbers-ii) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0775-n-ary-tree-preorder-traversal) |
