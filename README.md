@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1236-n-th-tribonacci-number) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1370-count-number-of-nice-subarrays) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1448-maximum-69-number) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-linked-list-components](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0835-linked-list-components) |
 | [0908-middle-of-the-linked-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0908-middle-of-the-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1765-merge-in-between-linked-lists](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1765-merge-in-between-linked-lists) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
