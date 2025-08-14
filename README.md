@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0151-reverse-words-in-a-string) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0143-reorder-list) |
