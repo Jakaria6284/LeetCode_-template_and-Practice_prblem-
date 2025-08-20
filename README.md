@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2388-replace-elements-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2388-replace-elements-in-an-array) |
 | [2487-optimal-partition-of-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2487-optimal-partition-of-string) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2751-sliding-subarray-beauty](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2751-sliding-subarray-beauty) |
 | [2832-find-the-longest-equal-subarray](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2832-find-the-longest-equal-subarray) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-minimum-time-to-complete-trips](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2294-minimum-time-to-complete-trips) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2388-replace-elements-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2388-replace-elements-in-an-array) |
