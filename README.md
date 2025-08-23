@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0800-letter-case-permutation) |
 | [0807-custom-sort-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0812-rotate-string) |
+| [0886-score-of-parentheses](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0886-score-of-parentheses) |
 | [0952-word-subsets](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0952-word-subsets) |
 | [0979-di-string-match](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0979-di-string-match) |
 | [1023-time-based-key-value-store](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1023-time-based-key-value-store) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0735-asteroid-collision) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0886-score-of-parentheses](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0886-score-of-parentheses) |
 | [0933-increasing-order-search-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0933-increasing-order-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
