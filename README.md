@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0491-non-decreasing-subsequences) |
+| [0496-next-greater-element-i](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0508-most-frequent-subtree-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0475-heaters) |
 | [0491-non-decreasing-subsequences](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0491-non-decreasing-subsequences) |
+| [0496-next-greater-element-i](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -1112,6 +1115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0739-daily-temperatures) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/2573-remove-nodes-from-linked-list) |
