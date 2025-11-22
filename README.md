@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0347-top-k-frequent-elements) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0198-house-robber) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0621-task-scheduler) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -705,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Jakaria6284/LeetCode_-template_and-Practice_prblem-/tree/master/0948-sort-an-array) |
